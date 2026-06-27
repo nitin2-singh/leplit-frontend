@@ -1,4 +1,3 @@
-import Navbar from "@/components/common/navbar";
 import CTA from "@/components/common/website/cta";
 import Features from "@/components/common/website/feature";
 import Hero from "@/components/common/website/hero";
